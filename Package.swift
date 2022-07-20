@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TeslaKit",
+    name: "tesla-kit",
     platforms: [
        .macOS(.v12)
     ],
